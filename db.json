@@ -31,11 +31,7 @@
       "organizer": "Carey Wales"
     }
   ],
-"location": [
-  {
+"location": {
     "abc": 10,
   },
-  {
-    "def": 20,}
-]
-}
+
